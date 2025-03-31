@@ -1,3 +1,7 @@
+package br.fiap.produto;
+
+import br.fiap.fornecedor.*;
+
 public class Produto {
     private String nome;
     private double valor;
